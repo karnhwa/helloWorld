@@ -1,4 +1,6 @@
 # helloWorld
 helloWorld
-Wah Lau eh HelloWorld always@(posedge clk) do this 
-do that
+this is no good 
+Wah Lau eh Write VHDL la
+
+Should not do this
