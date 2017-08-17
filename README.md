@@ -1,7 +1,6 @@
 # helloWorld
 helloWorld
 this is no good 
-Wah Lau eh HelloWorld always@(posedge clk) do this 
-do that
+Wah Lau eh Write VHDL la
 
 Should not do this
